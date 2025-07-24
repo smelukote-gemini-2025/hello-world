@@ -1,1 +1,2 @@
-This is my first new file added to my repository!
+This is my first new file added to my repository
+This is my first new file added from my loacal computer
